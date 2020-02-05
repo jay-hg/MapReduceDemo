@@ -44,7 +44,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.acai.weather.Weather</mainClass>
+                            <mainClass>com.acai.friends.Friend</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
